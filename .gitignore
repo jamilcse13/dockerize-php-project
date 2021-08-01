@@ -1,0 +1,7 @@
+/.idea
+docker/nginx/logs
+docker/db/*
+.DS_Store
+workstation/*
+docker/certbot
+!/workstation/
